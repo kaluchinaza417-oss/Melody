@@ -44,7 +44,7 @@ I enjoy solving real-world problems, optimizing reporting workflows, and creatin
 - Customer Experience & Operations
 
 - Marketing & Product Analytics
-
+#
 ### Featured Projects
 
 Here are a few projects you’ll find in my repositories:
@@ -87,8 +87,8 @@ Lately, I've been focusing on:
 
 LinkedIn: [My LinkedIn](www.linkedin.com/in/melody-kalu)
 
-Portfolio Website (if any): [My Portfolio](https://cosmic-confidence-3a7.notion.site/Melody-Kalu-262b2629b6c08026ae0def2ebcfb9ad4)
+Portfolio: [My Portfolio](https://cosmic-confidence-3a7.notion.site/Melody-Kalu-262b2629b6c08026ae0def2ebcfb9ad4)
 
 Email: [My Email](kalumelody24@gmail.com)
-
+#
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data projects!
