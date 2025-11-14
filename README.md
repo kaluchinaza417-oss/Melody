@@ -2,7 +2,7 @@
 
 I’m a Business Intelligence & Data Analyst passionate about transforming raw data into meaningful insights that drive smarter business decisions. I specialize in creating interactive dashboards, building analytical models, and communicating data stories that help organizations understand performance and uncover opportunities for improvement.
 
-### About Me
+## About Me
 
 I'm a data professional with hands-on experience in Power BI, SQL, Python, and Excel, with strong interests in business analytics, data modeling, and actionable reporting.
 My work focuses on:
