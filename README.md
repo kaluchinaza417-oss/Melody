@@ -16,7 +16,7 @@ My work focuses on:
 - Helping businesses make data-driven decisions faster and confidently
 
 I enjoy solving real-world problems, optimizing reporting workflows, and creating analytics solutions that are both insightful and visually compelling.
-
+#
 ### Areas of Expertise
 - Data Analysis & BI
 
@@ -25,7 +25,7 @@ I enjoy solving real-world problems, optimizing reporting workflows, and creatin
 - KPI development & performance analytics
 
 - Dashboard creation (Power BI, Tableau)
-
+#
 ### Tools & Technologies
 
 - Power BI, DAX, Power Query (M)
@@ -35,7 +35,7 @@ I enjoy solving real-world problems, optimizing reporting workflows, and creatin
 - Python (Pandas, NumPy, Matplotlib)
 
 - Excel (Pivot Tables, Power Pivot)
-
+#
 ### Business Domains
 
 - Banking & Financial Services
