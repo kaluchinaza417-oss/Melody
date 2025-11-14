@@ -16,3 +16,30 @@ My work focuses on:
 - Helping businesses make data-driven decisions faster and confidently
 
 I enjoy solving real-world problems, optimizing reporting workflows, and creating analytics solutions that are both insightful and visually compelling.
+
+### Areas of Expertise
+- Data Analysis & BI
+
+- Data modeling, data cleaning, and ETL
+
+- KPI development & performance analytics
+
+- Dashboard creation (Power BI, Tableau)
+
+### Tools & Technologies
+
+- Power BI, DAX, Power Query (M)
+
+- SQL (MySQL, PostgreSQL, SQL Server)
+
+- Python (Pandas, NumPy, Matplotlib)
+
+- Excel (Pivot Tables, Power Pivot)
+
+### Business Domains
+
+- Banking & Financial Services
+
+- Customer Experience & Operations
+
+- Marketing & Product Analytics
