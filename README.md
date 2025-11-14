@@ -85,10 +85,10 @@ Lately, I've been focusing on:
 #
 ### Let’s Connect
 
-LinkedIn: [My LinkedIn](www.linkedin.com/in/melody-kalu)
+LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/melody-kalu)
 
-Portfolio: [My Portfolio](https://cosmic-confidence-3a7.notion.site/Melody-Kalu-262b2629b6c08026ae0def2ebcfb9ad4)
+Portfolio: [My Portfolio Website](https://cosmic-confidence-3a7.notion.site/Melody-Kalu-262b2629b6c08026ae0def2ebcfb9ad4)
 
-Email: [My Email](kalumelody24@gmail.com)
+Email: [My Email Account](kalumelody24@gmail.com)
 #
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data projects!
